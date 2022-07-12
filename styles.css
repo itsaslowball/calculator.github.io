@@ -1,0 +1,28 @@
+.container{
+    text-align: center;
+    margin-top: 23px;
+    /* background-color: aquamarine; */
+}
+table{
+    margin:auto;
+}
+input{
+    font-size: 30px;
+    margin-bottom: 5px;
+    border-radius: 10px;
+    padding:0 20px;
+}
+button{
+    font-size: 30px;
+    width: 99px;
+    height: 51px;
+    border-radius: 8px;
+    background-color:gray
+}
+button:hover{
+    background-color: bisque;
+}
+.calculator{
+    display:inline-block;
+    background-color: aquamarine;
+}
